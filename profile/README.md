@@ -6,7 +6,7 @@ eSIMtt provides affordable eSIM data plans for travelers, remote workers, and in
 
 * Instant eSIM delivery
 * Quick QR code activation
-* Coverage across 100+ destinations
+* Coverage across 185+ destinations
 * Flexible local, regional, and global plans
 * Compatible with eSIM-supported smartphones, tablets, and other devices
 * No contracts or hidden fees
